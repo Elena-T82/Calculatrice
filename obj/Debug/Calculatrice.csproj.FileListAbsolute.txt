@@ -1,0 +1,100 @@
+C:\Users\SLAM-2\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+C:\Users\SLAM-2\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Accueil.resources
+C:\Users\SLAM-2\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\SLAM-2\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\SLAM-2\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\SLAM-2\Desktop\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\SLAM-2\Desktop\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\SLAM-2\Desktop\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\SLAM-2\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\SLAM-2\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+D:\2emeAnnee\SLAM 5\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+D:\2emeAnnee\SLAM 5\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+D:\2emeAnnee\SLAM 5\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+D:\2emeAnnee\SLAM 5\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+D:\2emeAnnee\SLAM 5\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Accueil.resources
+D:\2emeAnnee\SLAM 5\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+D:\2emeAnnee\SLAM 5\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+D:\2emeAnnee\SLAM 5\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+D:\2emeAnnee\SLAM 5\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+D:\2emeAnnee\SLAM 5\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+D:\2emeAnnee\SLAM 5\Calculatrice1\Calculatrice\bin\Debug\Calculatrice.exe.config
+D:\2emeAnnee\SLAM 5\Calculatrice1\Calculatrice\bin\Debug\Calculatrice.exe
+D:\2emeAnnee\SLAM 5\Calculatrice1\Calculatrice\bin\Debug\Calculatrice.pdb
+D:\2emeAnnee\SLAM 5\Calculatrice1\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+D:\2emeAnnee\SLAM 5\Calculatrice1\Calculatrice\obj\Debug\Calculatrice.Accueil.resources
+D:\2emeAnnee\SLAM 5\Calculatrice1\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+D:\2emeAnnee\SLAM 5\Calculatrice1\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+D:\2emeAnnee\SLAM 5\Calculatrice1\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+D:\2emeAnnee\SLAM 5\Calculatrice1\Calculatrice\obj\Debug\Calculatrice.exe
+D:\2emeAnnee\SLAM 5\Calculatrice1\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\SLAM-2\Desktop\VS\Calculatrice1\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\SLAM-2\Desktop\VS\Calculatrice1\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\SLAM-2\Desktop\VS\Calculatrice1\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\SLAM-2\Desktop\VS\Calculatrice1\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+C:\Users\SLAM-2\Desktop\VS\Calculatrice1\Calculatrice\obj\Debug\Calculatrice.Accueil.resources
+C:\Users\SLAM-2\Desktop\VS\Calculatrice1\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\SLAM-2\Desktop\VS\Calculatrice1\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\SLAM-2\Desktop\VS\Calculatrice1\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\SLAM-2\Desktop\VS\Calculatrice1\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\SLAM-2\Desktop\VS\Calculatrice1\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\SLAM-2\Desktop\VS\Calculatrice2\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\SLAM-2\Desktop\VS\Calculatrice2\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\SLAM-2\Desktop\VS\Calculatrice2\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\SLAM-2\Desktop\VS\Calculatrice2\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+C:\Users\SLAM-2\Desktop\VS\Calculatrice2\Calculatrice\obj\Debug\Calculatrice.Accueil.resources
+C:\Users\SLAM-2\Desktop\VS\Calculatrice2\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\SLAM-2\Desktop\VS\Calculatrice2\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\SLAM-2\Desktop\VS\Calculatrice2\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\SLAM-2\Desktop\VS\Calculatrice2\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\SLAM-2\Desktop\VS\Calculatrice2\Calculatrice\obj\Debug\Calculatrice.pdb
+D:\Cours BTS 1ère année\2emeAnnee\SLAM 5\Calculatrice2\Calculatrice\obj\Debug\Calculatrice.Accueil.resources
+D:\Cours BTS 1ère année\2emeAnnee\SLAM 5\Calculatrice2\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+D:\Cours BTS 1ère année\2emeAnnee\SLAM 5\Calculatrice2\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.Cache
+D:\Cours BTS 1ère année\2emeAnnee\SLAM 5\Calculatrice2\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+D:\Cours BTS 1ère année\2emeAnnee\SLAM 5\Calculatrice2\Calculatrice\obj\Debug\Calculatrice.exe
+D:\Cours BTS 1ère année\2emeAnnee\SLAM 5\Calculatrice2\Calculatrice\obj\Debug\Calculatrice.pdb
+D:\Cours BTS 1ère année\2emeAnnee\SLAM 5\Calculatrice2\Calculatrice\bin\Debug\Calculatrice.exe.config
+D:\Cours BTS 1ère année\2emeAnnee\SLAM 5\Calculatrice2\Calculatrice\bin\Debug\Calculatrice.exe
+D:\Cours BTS 1ère année\2emeAnnee\SLAM 5\Calculatrice2\Calculatrice\bin\Debug\Calculatrice.pdb
+D:\Cours BTS 1ère année\2emeAnnee\SLAM 5\Calculatrice2\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+C:\Users\SLAM-2\Desktop\vs\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\SLAM-2\Desktop\vs\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\SLAM-2\Desktop\vs\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\SLAM-2\Desktop\vs\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+C:\Users\SLAM-2\Desktop\vs\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Accueil.resources
+C:\Users\SLAM-2\Desktop\vs\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\SLAM-2\Desktop\vs\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\SLAM-2\Desktop\vs\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\SLAM-2\Desktop\vs\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\SLAM-2\Desktop\vs\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\elena\Desktop\VS\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\elena\Desktop\VS\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\elena\Desktop\VS\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\elena\Desktop\VS\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+C:\Users\elena\Desktop\VS\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Accueil.resources
+C:\Users\elena\Desktop\VS\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\elena\Desktop\VS\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.Cache
+C:\Users\elena\Desktop\VS\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\elena\Desktop\VS\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\elena\Desktop\VS\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\elena\Desktop\VS\Calculatrice avec racine\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\elena\Desktop\VS\Calculatrice avec racine\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\elena\Desktop\VS\Calculatrice avec racine\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\elena\Desktop\VS\Calculatrice avec racine\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+C:\Users\elena\Desktop\VS\Calculatrice avec racine\Calculatrice\obj\Debug\Calculatrice.Accueil.resources
+C:\Users\elena\Desktop\VS\Calculatrice avec racine\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\elena\Desktop\VS\Calculatrice avec racine\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.Cache
+C:\Users\elena\Desktop\VS\Calculatrice avec racine\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\elena\Desktop\VS\Calculatrice avec racine\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\elena\Desktop\VS\Calculatrice avec racine\Calculatrice\obj\Debug\Calculatrice.pdb
+D:\2emeAnnee\SLAM 5\Calculatrice avec racine\Calculatrice\bin\Debug\Calculatrice.exe.config
+D:\2emeAnnee\SLAM 5\Calculatrice avec racine\Calculatrice\bin\Debug\Calculatrice.exe
+D:\2emeAnnee\SLAM 5\Calculatrice avec racine\Calculatrice\bin\Debug\Calculatrice.pdb
+D:\2emeAnnee\SLAM 5\Calculatrice avec racine\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+D:\2emeAnnee\SLAM 5\Calculatrice avec racine\Calculatrice\obj\Debug\Calculatrice.Accueil.resources
+D:\2emeAnnee\SLAM 5\Calculatrice avec racine\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+D:\2emeAnnee\SLAM 5\Calculatrice avec racine\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+D:\2emeAnnee\SLAM 5\Calculatrice avec racine\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+D:\2emeAnnee\SLAM 5\Calculatrice avec racine\Calculatrice\obj\Debug\Calculatrice.exe
+D:\2emeAnnee\SLAM 5\Calculatrice avec racine\Calculatrice\obj\Debug\Calculatrice.pdb
